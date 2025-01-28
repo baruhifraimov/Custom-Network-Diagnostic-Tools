@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "discovery.h": "c",
+        "ctype.h": "c"
+    }
+}
